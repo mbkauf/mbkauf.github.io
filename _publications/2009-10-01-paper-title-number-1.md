@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Immunosuppression Considerations for Older Kidney Transplant Recipients"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'In this review, we discuss appropriate management of immunosuppressive agents in older adults to minimize adverse events, avoid acute rejection, and maximize patient and graft survival.'
+date: 2021-04-06
+venue: 'Current Transplantation Reports'
+paperurl: 'https://link.springer.com/article/10.1007/s40472-021-00321-6'
+citation: 'Cheungpasitporn, W., Lentine, K. L., Tan, J. C., Kaufmann, M., Caliskan, Y., Bunnapradist, S., ... & Axelrod, D. A. (2021). Immunosuppression considerations for older kidney transplant recipients. <i>Current transplantation reports</i>, 8(2), 100-110.'
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
+In this review, we discuss appropriate management of immunosuppressive agents in older adults to minimize adverse events, avoid acute rejection, and maximize patient and graft survival.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://mbkauf.github.io/files/Cheungpasitporn2021_Article_ImmunosuppressionConsideration.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Cheungpasitporn, W., Lentine, K. L., Tan, J. C., Kaufmann, M., Caliskan, Y., Bunnapradist, S., ... & Axelrod, D. A. (2021). Immunosuppression considerations for older kidney transplant recipients. <i>Current transplantation reports</i>, 8(2), 100-110.
