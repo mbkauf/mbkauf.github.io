@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Matthew B. Kaufmann"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Matt Kaufmann is a Health Policy PhD candidate in the Decision Sciences track at Stanford University"
+  location         : "Stanford, CA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=thjgc60AAAAJ&hl=en&oi=ao"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mbkauf"
+  github           : "https://github.com/mbkauf"
   google_plus      :
   keybase          :
   instagram        :
