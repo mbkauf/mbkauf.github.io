@@ -11,6 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
+Peer-reviewed Journals
+======
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+Working Papers
+======
+
