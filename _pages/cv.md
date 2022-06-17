@@ -11,32 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S.B.A. in Business Economics & Finance, University of South Carolina, 2015
+* M.H.S. in Health Economics, Johns Hopkins University Bloomberg School of Public Health, 2017
+* Ph.D in Health Policy (Decision Sciences), Stanford University, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-2019: Economist III, Public Health Economics Program
+  * RTI International
+  * Managed projects, designed and conducted simulation models, and conducted statistical analyses for projects that covered the
+following topics: diabetes, childhood pneumonia and diarrhea, asthma, family planning, dialysis, oncology, nutrition, epidemic
+surveillance, and stroke care
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016-2017: Research Assistant
+  * Johns Hopkins University Bloomberg School of Public Health
+  * Led a team of four other students in conducting a systematic review and building an economic model
+  * Developed a Markov Model to simulate children with asthma through various health states
+  * Supervisor: Professor William Padula
   
-Skills
+Teaching
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Publications and Manuscripts
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -48,12 +47,16 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Honors and Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* National Research Service Award T32 Fellow, Agency for Health Research and Qualtity, 2019-Present
+* Lee B. Lusted Prize Finalist (Top 10 student abstract in research category), Society for Medical Decision Making, 2021
+
+
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Data Analysis: R, Stata
+* Simulation/Decision Making: R, TreeAge, Python, Amua
+* Visualization: Tableau
+* Other Programming Languages: VBA
+
