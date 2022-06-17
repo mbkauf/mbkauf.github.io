@@ -11,15 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Peer-reviewed Journal Publications
-======
-
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-Working Papers
-======
-{% for post in site.working reversed %}
-  {% include archive-single.html %}
-{% endfor %}
