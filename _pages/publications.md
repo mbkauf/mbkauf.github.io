@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-Peer-reviewed Journals
+Peer-reviewed Journal Publications
 ======
 
 {% for post in site.publications reversed %}
@@ -20,4 +20,6 @@ Peer-reviewed Journals
 
 Working Papers
 ======
-
+{% for post in site.working reversed %}
+  {% include archive-single.html %}
+{% endfor %}
