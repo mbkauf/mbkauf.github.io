@@ -21,7 +21,7 @@ Professional experience
 ======
 * **RTI International**, Economist III, Public Health Economics Program: 2017-2019
   * Managed projects, designed and conducted simulation models, and conducted statistical analyses for projects that covered the
-following topics: diabetes, childhood pneumonia and diarrhea, asthma, family planning, dialysis, oncology, nutrition, epidemic
+following topics: diabetes, childhood pneumonia, and diarrhea, asthma, family planning, dialysis, oncology, nutrition, epidemic
 surveillance, and stroke care
 
 Teaching
@@ -38,10 +38,12 @@ Peer-Reviewed Publications
 
 Working Papers
 ======
+* <b> Kaufmann, M.B. </b>, Tan, J., Chertow, G., Goldhaber-Fiebert, J.D., <i>Cost-Effectiveness of Policies to Increase Kidney Transplantation
+Rates Among Older Candidates.</i>
 
 Technical Reports
 ======
-* Allaire, B., King, G., <b>Kaufmann, M.</b>, Hilscher, R., Hoerger, T. (2018). <i>Report on the Model Parameters and Algorithms for the CDCRTI
+* Allaire, B., King, G., <b>Kaufmann, M.</b>, Hilscher, R., Hoerger, T. (2018). <i>Report on the Model Parameters and Algorithms for the CDC/RTI
 Microsimulation Model of Diabetes, Cardiovascular Disease, and Nutrition.</i> Centers for Disease Control and Prevention.
 * Honeycutt, A., Hutchinson, B., <b>Kaufmann, M.</b>, Bates, L. (2017). <i>Cost-Benefit Analysis of Kidney Dialysis Services in Tuvalu: Final
 Report.</i> Commonwealth of Australia, Department of Foreign Affairs and Trade.
@@ -59,7 +61,7 @@ in the United States. CJASN Podcast. [https://www.asn-online.org/media/podcast/C
 
 Honors and Awards
 ======
-* National Research Service Award T32 Fellow, Agency for Health Research and Qualtity, 2019-Present
+* National Research Service Award T32 Fellow, Agency for Health Research and Quality, 2019-Present
 * Lee B. Lusted Prize Finalist (Top 10 student abstract in research category), Society for Medical Decision Making, 2021
 
 Research Experience
