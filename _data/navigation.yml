@@ -2,7 +2,10 @@
 main:
   - title: "Publications"
     url: /publications/
-
+    
+  - title: "Works in Progress"
+    url: /wip/
+    
   - title: "Talks"
     url: /talks/    
 
