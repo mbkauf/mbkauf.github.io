@@ -17,19 +17,6 @@ Education
 * MHS in Health Economics, Johns Hopkins University Bloomberg School of Public Health, 2017
 * BSBA in Business Economics & Finance (Investments), University of South Carolina, 2015
 
-Professional experience
-======
-* **RTI International**, Economist III, Public Health Economics Program: 2017-2019
-  * Managed projects, designed and conducted simulation models, and conducted statistical analyses for projects that covered the
-following topics: diabetes, childhood pneumonia, and diarrhea, asthma, family planning, dialysis, oncology, nutrition, epidemic
-surveillance, and stroke care
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Peer-Reviewed Publications
 ======
   <ul>{% for post in site.publications %}
@@ -57,12 +44,28 @@ Talks
 Audio Publications
 ======
 * <b>Kaufmann, M</b>. Contributor. (2021) Racial Disparities in Pediatric Kidney Transplantation under the new Kidney Allocation System
-in the United States. CJASN Podcast. [https://www.asn-online.org/media/podcast/CJASN/2021_12_07_CJN06740521.mp3](https://www.asn-online.org/media/podcast/CJASN/2021_12_07_CJN06740521.mp3) 
+in the United States. CJASN Podcast. [https://www.asn-online.org/media/podcast/CJASN/2021_12_07_CJN06740521.mp3](https://www.asn-online.org/media/podcast/CJASN/2021_12_07_CJN06740521.mp3)
+
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Honors and Awards
 ======
 * National Research Service Award T32 Fellow, Agency for Health Research and Quality, 2019-Present
 * Lee B. Lusted Prize Finalist (Top 10 student abstract in research category), Society for Medical Decision Making, 2021
+* Cooper Scholars Award (merit scholarship with annual value of $4,000 + tuition reduction to in-state rate), University of South Carolina, 2011-2015
+
+
+Professional experience
+======
+* **RTI International**, Economist III, Public Health Economics Program: 2017-2019
+  * Managed projects, designed and conducted simulation models, and conducted statistical analyses for projects that covered the
+following topics: diabetes, childhood pneumonia, and diarrhea, asthma, family planning, dialysis, oncology, nutrition, epidemic
+surveillance, and stroke care
+
 
 Research Experience
 ======
