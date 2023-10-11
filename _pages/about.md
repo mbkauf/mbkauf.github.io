@@ -14,4 +14,4 @@ Prior to joining Stanford in 2019, I worked as an economist in the Public Health
 
 
 
-I am currently on the job market! I expect to graduate in Spring 2024 and am seeking a postdoctoral position in decision sciences and cancer modeling. 
+I am currently on the job market! I expect to graduate in Spring 2024 and I am seeking a postdoctoral position in decision sciences and simulation modeling, focusing on cancer modeling. 
