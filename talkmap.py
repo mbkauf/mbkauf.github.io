@@ -52,7 +52,7 @@ for file in g:
     count = count + 1
 
 m = getorg.orgmap.create_map_obj()
-getorg.orgmap.output_html_cluster_map(location_dict, folder_name="../talk_map", hashed_usernames=False)
+getorg.orgmap.output_html_cluster_map(location_dict, folder_name="../talkmap", hashed_usernames=False)
 
 
 
