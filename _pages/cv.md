@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A full version of my CV can be found [here](http://mbkauf.github.io/files/Matthew_Kaufmann_CV_20230802.pdf)
+A full version of my CV can be found [here](http://mbkauf.github.io/files/Matthew_Kaufmann_CV_20231109.pdf)
 
 Education
 ======
