@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Matthew B. Kaufmann"
+  name             : "Matthew B. Kaufmann, PhD"
   avatar           : "IMG_0966.jpg"
-  bio              : "Health Policy PhD candidate, Decision Sciences track at Stanford University"
-  location         : "Stanford, CA"
+  bio              : "Midwest Analytics and Disease Modeling Center (MADMC) Postdoctoral Associate"
+  location         : "Minneapolis, MN"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=thjgc60AAAAJ&hl=en&oi=ao"
-  email            : "mbkauf@stanford.edu"
+  email            : "kaufm458@umn.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
