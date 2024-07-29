@@ -13,7 +13,7 @@ A full version of my CV can be found [here](http://mbkauf.github.io/files/Matthe
 
 Education
 ======
-* Ph.D in Health Policy (Decision Sciences), Stanford University, 2024 (expected)
+* Ph.D in Health Policy (Decision Sciences), Stanford University, 2024
 * MHS in Health Economics, Johns Hopkins University Bloomberg School of Public Health, 2017
 * BSBA in Business Economics & Finance (Investments), University of South Carolina, 2015
 
@@ -55,7 +55,7 @@ Teaching
 Honors and Awards
 ======
 * National Research Service Award T32 Fellow, Agency for Health Research and Quality, 2019-Present
-* Lee B. Lusted Prize Finalist (Top 10 student abstract in research category), Society for Medical Decision Making, 2021
+* 3 time Lee B. Lusted Prize Finalist (Top 10 student abstract in research category), Society for Medical Decision Making, 2021-2023
 * Cooper Scholars Award (merit scholarship with annual value of $4,000 + tuition reduction to in-state rate), University of South Carolina, 2011-2015
 
 
