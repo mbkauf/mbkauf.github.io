@@ -1,9 +1,9 @@
 ---
-title: "Utilization of Suboptimal Deceased Donor Kidneys Among Older Candidates: A Cost-Effectiveness Analysis"
+title: "Using Imperfect but “Transplant Quality” Deceased Donor Kidneys for Older Transplant Candidates: A Cost-Effectiveness Analysis"
 collection: wip
-permalink: /wip/working-2
+permalink: /wip/wip_kt_cea
 
 ---
-<b>Advisor:</b> Jeremy Goldhaber-Fiebert <br> <br>
+<b>Co-authors:</b> Jane C. Tan, Douglas K. Owens, Glenn M. Chertow, Jeremy D. Goldhaber-Fiebert <br> <br>
 
-Each year many potentially usable deceased donor kidneys are discarded in the United States even while candidates aged 65 years or older have disproportionately lower rates of transplantation. We assessed the cost-effectiveness of expanding the number of available kidneys by also offering these suboptimal but usable donor kidneys to this population. 
+Older transplant candidates are transplanted at a disproportionately low rate compared to younger candidates while many “transplant quality” deceased donor kidneys go unused every year. We sought to assess the cost-effectiveness of increasing the rate of kidney transplantation in older patients with end-stage kidney disease by using imperfect but transplant quality deceased donor kidneys
