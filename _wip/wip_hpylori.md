@@ -1,7 +1,7 @@
 ---
-title: "Builing a Race-Specific Dynamic Transmission Model of *Helicobacter pylori* in the United States"
+title: "Building a Race-Specific Dynamic Transmission Model of *Helicobacter pylori* in the United States"
 collection: wip
-permalink: /wip/working-1
+permalink: /wip/wip_hpylori
 
 ---
 <b>Co-author:</b> Fernando Alarid-Escudero <br> <br>
