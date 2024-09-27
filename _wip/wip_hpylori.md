@@ -1,5 +1,5 @@
 ---
-title: "Builing a Race-Specific Dynamic Transmission Model of <i>Helicobacter pylori</i> in the United States"
+title: "Builing a Race-Specific Dynamic Transmission Model of *Helicobacter pylori* in the United States"
 collection: wip
 permalink: /wip/working-1
 
