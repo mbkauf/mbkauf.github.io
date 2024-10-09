@@ -1,6 +1,6 @@
 ---
 title: "*Helicobacter pylori*"
-excerpt: <img src='/images/hp-model-diagram.png' alt='' height=450>
+excerpt: <img src='/images/hp-model-diagram.png' alt=''>
 collection: research
 order_number: 3
 header: 
