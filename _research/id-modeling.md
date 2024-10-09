@@ -1,6 +1,6 @@
 ---
 title: "Infectious Disease Modeling"
-excerpt: "<img src='/images/sir-model.png' alt=''>"
+excerpt: "<img src='/images/sir-model.png' alt='' width="200" height="200">"
 collection: research
 order_number: 1
 header: 
