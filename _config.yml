@@ -262,7 +262,7 @@ defaults:
   # _research
   - scope:
       path: ""
-      type: wip
+      type: research
     values:
       layout: single
       author_profile: true
