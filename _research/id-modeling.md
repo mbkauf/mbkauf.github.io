@@ -1,10 +1,10 @@
 ---
 title: "Infectious Disease Modeling"
-excerpt: "<img src='/images/sir_model.png' alt=''>"
+excerpt: "<img src='/images/sir-model.png' alt=''>"
 collection: research
 order_number: 1
 header: 
-  og_image: "sir_model.png"
+  og_image: "sir-model.png"
 ---
 
 Infectious disease modeling is an active area of my research. As part of my dissertation, I developed a method for parameterizing a multi-stratification Who-Acquires-Infection-From-Whom (WAIFW) matrix. 
